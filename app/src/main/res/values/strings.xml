@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework11</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_save">Save</string>
+</resources>
